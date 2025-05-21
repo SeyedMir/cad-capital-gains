@@ -18,3 +18,4 @@ poetry install
 
 ## Then run it
 poetry run capgains
+poetry run capgains calc my_transactions.usd 2024
